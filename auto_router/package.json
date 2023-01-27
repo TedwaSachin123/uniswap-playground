@@ -1,0 +1,19 @@
+{
+  "name": "auto_router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "@uniswap/sdk-core": "^3.1.0",
+    "@uniswap/smart-order-router": "^2.10.1",
+    "ethers": "^5.7.2"
+  }
+}
